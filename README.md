@@ -1,4 +1,4 @@
-# Save My Eyes - Protect Your Vision from PWM Flicker
+# Save My Eyes - Protect from PWM Flicker
 
 Some screens use pulse-width modulation (PWM) flicker for low-brightness.
 
