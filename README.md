@@ -12,6 +12,9 @@ The app functions as a substitute for the default brightness adjustment icon in 
 - **Overlay Darkness Adjustment**: Tune the darkness of the overlay that simulates lower brightness without using PWM.
 - **System Tray Integration**: Access and adjust settings conveniently from the system tray icon, through a simple slider interface.
 
+![图片](https://github.com/puff-dayo/Save-My-Eyes/assets/84665734/a84a8066-4ecb-4e8a-aaf9-4ab3d651bee7)
+
+
 ## Getting Started
 
 ### Release
